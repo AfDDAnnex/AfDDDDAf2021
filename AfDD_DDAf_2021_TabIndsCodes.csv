@@ -86,7 +86,7 @@ PhoneSubsPer100,Fixed-telephone subscriptions per 100 inhabitants,Abonnements té
 MobBBSubsPer100,Mobile-broadband subscriptions per 100 inhabitants,Abonnements haut débit mobile pour 100 habitants
 IntlBBSpeedMBits,"International bandwidth, in megabytes per second","Bande passante internationale, en mégaoctets par seconde"
 GSMA4GCov,Percentage of inhabitants that live within 4G mobile technology coverage,Pourcentage d'habitants vivant dans une zone couverte par la technologie mobile 4G
-IntntAccss,Access to internet (% of population aged 15+),Accès à Internet (% de la population âgée de 15 ans et plus)
+IntntAccss,Access to internet (% of population aged 15+),Accès à l'Internet (% de la population âgée de 15 ans et plus)
 OwnWSitLrgFm,Percentage of large firms using their own website,Pourcentage de grandes entreprises utilisant leur propre site Web
 OwnWSitMedFm,Percentage of medium-sized firms using their own website,Pourcentage d'entreprises de taille moyenne utilisant leur propre site Web
 OwnWSitSmlFm,Percentage of small firms using their own website,Pourcentage de petites entreprises utilisant leur propre site Web
@@ -130,6 +130,8 @@ TaxGdsSrvPerGDP,General government taxes on goods and services as a % of GDP,Imp
 TaxTradePerGDP,General government taxes on international trade and transactions as a % of GDP,Impôts des administrations publiques sur les échanges internationaux en % du PIB
 ExpendPerGDP,General government expenditure as a % of GDP,Total des dépenses des administrations publiques en % du PIB
 GrossDebtPerGDP,General government gross debt as a % of GDP,Dette brute des administrations publiques en % du PIB
+GrossDebtDPerGDP,General government domestic currency gross debt as a % of GDP,Dette brute en monnaie nationale des administrations publiques en % du PIB
+GrossDebtFPerGDP,General government foreign currency gross debt as a % of GDP,Dette brute en devises des administrations publiques en % du PIB
 ExpUnproc,Total exports of unprocessed goods (millions of USD),Exportations totales de produits non transformés (millions USD)
 ExpSemiProc,Total exports of semi-processed goods (millions of USD),Exportations totales de produits semi-transformés (millions USD)
 ExpFullyProc,Total exports of fully processed goods (millions of USD),Total des exportations de produits transformés (millions USD)
@@ -160,11 +162,13 @@ ODAPGD,Net Official Development Assistance (ODA) inflows as a % of GDP,Entrées n
 UNCTADFDIPGD,Foreign Direct Investment (FDI) inflows as a % of GDP,Entrées d’investissements directs étrangers (IDE) en % du PIB
 RemitPGD,Remittances inflows as a % of GDP,Entrées de transferts des migrants en % du PIB
 TotalFinInflowsPGD,Total financial inflows as a % of GDP,Entrées financières totales en % du PIB
+GrNatSavPrvPGD,Gross private saving as a % of GDP,Épargne privée brute en % du PIB
 PortfolioInFl,Portfolio investment inflows (millions of USD),Entrées des investissements de portefeuille (millions USD)
 ODA,Net Official Development Assistance (ODA) inflows (millions of USD),Entrées nettes d'aide publique au développement (APD) (millions USD)
 UNCTADFDI,Foreign Direct Investment (FDI) inflows (millions of USD),Entrées d’investissements directs étrangers (IDE) (millions USD)
 Remit,Remittances inflows (millions of USD),Entrées de transferts des migrants (millions USD)
 TotalFinInflows,Total financial inflows (millions of USD),Entrées financières totales (millions USD)
+GrNatSavPrv,Gross private saving (millions of USD),Épargne privée brute (millions USD)
 CountryArea,Country Area (thousands of ha),Superficie (milliers d'hectares)
 AgricLand,Agricultural land (thousands of ha),Terres agricoles (milliers d'hectares)
 CropLand,Cropland (thousands of ha),Terres cultivées (milliers d'hectares)
