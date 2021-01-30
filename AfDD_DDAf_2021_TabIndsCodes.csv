@@ -148,6 +148,7 @@ ExpProdPct5,% of exports ascribed to 4-digit HS96 product category with the fift
 NumPrdU75,Number of products amounting to 75% of total exports,Nombre de produits exportés représentant 75% des exportations totales
 NumPrdU90,Number of products amounting to 90% of total exports,Nombre de produits exportés représentant 90% des exportations totales
 TotExpPerGDP,Value of total exports of goods and services as a % of GDP,Valeur totale des exportations de biens et services en % du PIB
+HHIProd,Herfindahl-Hirschmann Concentration Index of export products,Indice de concentration Herfindahl-Hirschmann des produits d'exportation
 RECExpPct,"Exports to countries in same REC, as a % of total Exports","Exportations vers les pays de la même CER, en % du total des exportations"
 AUCRegExpPct,"Exports to countries in same AUC Region, as a % of total Exports","Exportations vers les pays de la même région de la CUA, en % du total des exportations"
 ContExpPct,"Exports to countries in same continent, as a % of total Exports","Exportations vers les pays du même continent, en % du total des exportations"
