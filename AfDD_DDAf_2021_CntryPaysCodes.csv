@@ -20,12 +20,12 @@ CntryCode,Countries and groupings (EN),Pays et groupements (FR)
 211,ASEAN,ASEAN
 212,MERCOSUR,MERCOSUR
 213,EU27,EU27
-310,Resource-exporting countries,Pays exportateurs de ressources
-311,"Africa, resource-exporting countries","Afrique, pays exportateurs de ressources"
-319,"ROW, resource-exporting countries","RDM, pays exportateurs de ressources"
-320,Non-resource-exporting countries,Pays exportateurs de ressources exclus
-321,"Africa, non-resource-exporting countries",Afrique (pays non exportateurs de ressources exclus)
-329,"ROW, non-resource-exporting countries",RDM (pays exportateurs de ressources exclus)
+310,Resource-rich countries,Pays riche en ressources
+311,"Africa, resource-rich countries","Afrique, pays riche en ressources"
+319,"ROW, resource-rich countries","RDM, pays riche en ressources"
+320,Non-resource-rich countries,Pays riche en ressources exclus
+321,"Africa, non-resource-rich countries",Afrique (pays non riche en ressources exclus)
+329,"ROW, non-resource-rich countries",RDM (pays riche en ressources exclus)
 410,Low income countries,Pays à faible revenu
 411,"Africa, low income countries","Afrique, pays à faible revenu"
 419,"ROW, low income countries","RDM, pays à faible revenu"
@@ -67,12 +67,12 @@ BEN,Benin,Bénin
 BFA,Burkina Faso,Burkina Faso
 BGD,Bangladesh,Bangladesh
 BGR,Bulgaria,Bulgarie
-BHR,Bahrain*,Bahreïn*
+BHR,Bahrain,Bahreïn
 BHS,Bahamas,Bahamas
 BIH,Bosnia and Herzegovina,Bosnie-Herzégovine
 BLR,Belarus,Bélarus
 BLZ,Belize,Belize
-BOL,Bolivia*,Bolivie*
+BOL,Bolivia,Bolivie
 BRA,Brazil,Brésil
 BRB,Barbados,Barbade
 BRN,Brunei Darussalam*,Brunei Darussalam*
@@ -100,9 +100,9 @@ DMA,Dominica,Dominique
 DNK,Denmark,Danemark
 DOM,Dominican Republic,République dominicaine
 DZA,Algeria*,Algérie*
-ECU,Ecuador,Équateur
+ECU,Ecuador*,Équateur*
 EGY,Egypt,Égypte
-ERI,Eritrea*,Érythrée*
+ERI,Eritrea,Érythrée
 ESP,Spain,Espagne
 EST,Estonia,Estonie
 ETH,Ethiopia,Éthiopie
@@ -113,8 +113,8 @@ FSM,Micronesia,Micronésie
 GAB,Gabon*,Gabon*
 GBR,United Kingdom,Royaume-Uni
 GEO,Georgia,Géorgie
-GHA,Ghana,Ghana
-GIN,Guinea*,Guinée*
+GHA,Ghana*,Ghana*
+GIN,Guinea,Guinée
 GMB,Gambia,Gambie
 GNB,Guinea-Bissau,Guinée-Bissau
 GNQ,Equatorial Guinea*,Guinée équatoriale*
@@ -129,7 +129,7 @@ HUN,Hungary,Hongrie
 IDN,Indonesia,Indonésie
 IND,India,Inde
 IRL,Ireland,Irlande
-IRN,Iran,Iran
+IRN,Iran*,Iran*
 IRQ,Iraq*,Iraq*
 ISL,Iceland,Islande
 ISR,Israel,Israël
@@ -147,7 +147,7 @@ KOR,Korea,Corée
 KWT,Kuwait*,Koweït*
 LAO,Lao PDR,RDP lao
 LBN,Lebanon,Liban
-LBR,Liberia*,Libéria*
+LBR,Liberia,Libéria
 LBY,Libya*,Libye*
 LCA,Saint Lucia,Sainte-Lucie
 LIE,Liechtenstein,Liechtenstein
@@ -162,26 +162,26 @@ MDA,Moldova,Moldova
 MDG,Madagascar,Madagascar
 MDV,Maldives,Maldives
 MEX,Mexico,Mexique
-MHL,Marshall Islands*,Îles Marshall*
+MHL,Marshall Islands,Îles Marshall
 MKD,North Macedonia,Macédoine du Nord
 MLI,Mali,Mali
-MLT,Malta*,Malte*
+MLT,Malta,Malte
 MMR,Myanmar,Myanmar
 MNE,Montenegro,Monténégro
 MNG,Mongolia*,Mongolie*
-MOZ,Mozambique*,Mozambique*
+MOZ,Mozambique,Mozambique
 MRT,Mauritania*,Mauritanie*
 MUS,Mauritius,Maurice
 MWI,Malawi,Malawi
-MYS,Malaysia*,Malaisie*
-NAM,Namibia*,Namibie*
+MYS,Malaysia,Malaisie
+NAM,Namibia,Namibie
 NER,Niger,Niger
 NGA,Nigeria*,Nigéria*
 NIC,Nicaragua,Nicaragua
 NLD,Netherlands,Pays-Bas
-NOR,Norway*,Norvège*
+NOR,Norway,Norvège
 NPL,Nepal,Népal
-NRU,Nauru*,Nauru*
+NRU,Nauru,Nauru
 NZL,New Zealand,Nouvelle-Zélande
 OMN,Oman*,Oman*
 PAK,Pakistan,Pakistan
@@ -201,9 +201,9 @@ RWA,Rwanda,Rwanda
 SAU,Saudi Arabia*,Arabie saoudite*
 SDN,Sudan,Soudan
 SEN,Senegal,Sénégal
-SGP,Singapore*,Singapour*
+SGP,Singapore,Singapour
 SLB,Solomon Islands,Îles Salomon
-SLE,Sierra Leone*,Sierra Leone*
+SLE,Sierra Leone,Sierra Leone
 SLV,El Salvador,El Salvador
 SMR,San Marino,Saint-Marin
 SOM,Somalia,Somalie
@@ -233,7 +233,7 @@ UGA,Uganda,Ouganda
 UKR,Ukraine,Ukraine
 URY,Uruguay,Uruguay
 USA,United States,États-Unis
-UZB,Uzbekistan,Ouzbékistan
+UZB,Uzbekistan*,Ouzbékistan*
 VCT,Saint Vincent and the Grenadines,Saint-Vincent-et-les-Grenadines
 VEN,Venezuela*,Venezuela*
 VNM,Viet Nam,Viet Nam
