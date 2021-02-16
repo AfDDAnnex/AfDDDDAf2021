@@ -8,7 +8,7 @@ CntryCode,Countries and groupings (EN),Pays et groupements (FR)
 120,Latin America and Caribbean,Amérique latine et Caraïbes 
 130,Asia (no high inc.),Asie (pays à revenu élevé exclus)
 140,Other developing,Autres pays en developpmeent
-150,High income (no LAC),Pays à revenu élévé (LAC exclus)
+150,High income (no LAC),Pays à revenu élévé (ALC exclus)
 201,COMESA,COMESA
 202,CEN-SAD,CEN-SAD
 203,EAC,CAE
@@ -35,7 +35,7 @@ CntryCode,Countries and groupings (EN),Pays et groupements (FR)
 430,Upper middle income countries,Pays à revenu intermédiaire supérieur
 431,"Africa, upper middle income countries","Afrique, pays à revenu intermédiaire supérieur"
 439,"ROW, upper middle income countries","RDM, pays à revenu intermédiaire supérieur"
-440,High income countries (no LAC),Pays à revenu élevé
+440,High income countries,Pays à revenu élevé
 510,Least Developed Countries,Pays les moins avancés
 511,"Africa, Least Developed Countries","Afrique, pays les moins avancés"
 519,"ROW, Least Developed Countries","RDM, pays les moins avancés"
